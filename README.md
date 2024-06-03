@@ -1,18 +1,18 @@
-Write a program that prints the lyrics of the song 99 Bottles of Beer.
+Écrivez un programme qui renvoie les paroles de la chanson 99 Bouteilles de Bière.
 
-It will take as an argument the starting number of bottles, given through the command line when executing the program. This program should work this way.
+Il prendra comme argument le nombre de bouteilles de départ, donné via la ligne de commande lors de l'exécution du programme. Ce programme devrait fonctionner de cette façon.
 
-You should define your #beer_song(beer_start_count) method in a javascript file. Then, you should run the program and see this output.
+Vous devez définir votre méthode #chanson_biere(nombre_biere_depart) dans un fichier javascript. Ensuite, vous devez exécuter le programme et voir cette sortie.
 
 ```bash
-5 bottles of beer on the wall, 5 bottles of beer!
-Take one down, pass it around, 4 bottles of beer on the wall!
-4 bottles of beer on the wall, 4 bottles of beer!
-Take one down, pass it around, 3 bottles of beer on the wall!
-3 bottles of beer on the wall, 3 bottles of beer!
-Take one down, pass it around, 2 bottles of beer on the wall!
-2 bottles of beer on the wall, 2 bottles of beer!
-Take one down, pass it around, 1 bottle of beer on the wall!
-1 bottle of beer on the wall, 1 bottle of beer!
-Take one down, pass it around, no more bottles of beer on the wall!
+5 bouteilles de bière au mur, 5 bouteilles de bière !
+Enlevez-en une, faites-la circuler, 4 bouteilles de bière au mur !
+4 bouteilles de bière au mur, 4 bouteilles de bière !
+Enlevez-en une, faites-la circuler, 3 bouteilles de bière au mur !
+3 bouteilles de bière au mur, 3 bouteilles de bière !
+Enlevez-en une, faites-la circuler, 2 bouteilles de bière au mur !
+2 bouteilles de bière au mur, 2 bouteilles de bière !
+Enlevez-en une, faites-la circuler, 1 bouteille de bière au mur !
+1 bouteille de bière au mur, 1 bouteille de bière !
+Retirez-en une, faites-la circuler, fini les bouteilles de bière au mur !
 ```
