@@ -1,2 +1,2 @@
-Écrivez une méthode Typescript qui calcule la somme des entiers entre une valeur minimale et une valeur maximale (min et max inclus) en utilisant la récursion :expressionless:
+Écrivez une méthode Typescript qui calcule la somme des entiers entre une valeur minimale et une valeur maximale (min et max inclus) en utilisant la récursion :expressionless:\
 Si la valeur minimale est supérieure à la valeur maximale, elle doit renvoyer -1
