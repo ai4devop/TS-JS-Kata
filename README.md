@@ -1,5 +1,9 @@
-# JavaScript Katas
-Bienvenue dans le repository JavaScript Katas ! Ce projet comprend plusieurs Katas qui vous aideront à pratiquer les compétences essentielles du développement JavaScript. Chaque Kata est stocké dans une branche dédiée, et votre tâche est d'écrire du code dans le fichier approprié afin de réussir les tests fournis.
+# JavaScript/Typescript Katas augmented by your AI assistant :robot:
+
+Bienvenue dans le repository JavaScript/Typescript Katas ! Ce projet comprend plusieurs Katas qui vous aideront à pratiquer des compétences algorithmiques en JavaScript/Typescript. Chaque Kata est stocké dans une branche dédiée `exercice1`, `exercice2`, etc..
+Votre tâche est d'écrire l'algorithme d'une fonction résolvant les test présent dans ce fichier se terminant par `.test.ts` ou `.test.js`. 
+
+N'oubliez pas votre assistant d'IA générative doit vous aider à résoudre ces challenges
 
 ## Comment utiliser ce repository
 
